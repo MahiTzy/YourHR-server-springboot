@@ -7,7 +7,7 @@
 3. [Project Structure](#project-structure)
 4. [Database Configuration](#database-configuration)
 5. [API Endpoints](#api-endpoints)
-7. [Running the Application](#running-the-application)
+6. [Running the Application](#running-the-application)
 
 ### Overview
 
@@ -61,6 +61,7 @@ spring.h2.console.enabled=true
 ```
 
 This configuration allows the H2 console to be accessed at `http://localhost:8080/h2-console`.
+![Screenshot 2024-08-31 at 11-24-14 H2 Console](https://github.com/user-attachments/assets/66c23759-b158-4476-ba83-5f1db3324577)
 
 ### API Endpoints
 
